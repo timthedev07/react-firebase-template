@@ -8,3 +8,5 @@ By default, the environment variable `BROWSER=none` because that's just a person
 The most important step of actually using this template is to fill all the environment variables in [`.env.local`](/.env.local)
 
 After doing so, you can just start developing your site.
+
+# **_ONE FINAL THING, UNCOMMENT THE LINE OF .env.local IN GITIGNORE!!!_**
